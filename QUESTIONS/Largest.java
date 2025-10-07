@@ -18,6 +18,6 @@ public class Largest {
             System.out.println(c);
         }
 
-        sc.close();
+        sc.close();                                     
     }
 }

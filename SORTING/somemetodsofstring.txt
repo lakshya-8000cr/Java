@@ -1,0 +1,6 @@
+so we convert the string to arrar of wordss like htis 
+String sen = lakshya;
+char[] arr = sen.toCharArray();
+
+2 convert this array back to string ;
+String sorted = new String(arr);  b

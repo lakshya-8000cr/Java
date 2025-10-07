@@ -1,0 +1,2 @@
+fucntions overloading , function overriding ,
+overloading does that ek name ke function ko diff parameter dekar use kar sakte hai 
