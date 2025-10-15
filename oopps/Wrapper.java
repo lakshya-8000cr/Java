@@ -6,10 +6,7 @@ public class Wrapper {
         Integer obj = 12; // this is called autoboxing 
         System.out.println(obj);
         System.out.println(obj2);
-
-
         int a  = obj; // this is called unboxing  ; obj to normal int me convert karna ;
-
         System.out.println(a);
     }
 }
