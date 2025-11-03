@@ -1,4 +1,4 @@
-package Java.oopps.ABSTRACTION;
+package Java.os.ABSTRACTION;
 
 abstract class Animal {
     abstract void walk(); // we have make this class abstract because animal ki asal me koi jarurat ni wo toh only ek blue orint hai just main object to horse and animal ke jo bhi child hoge unka banega na so we ahve maked that abstract class

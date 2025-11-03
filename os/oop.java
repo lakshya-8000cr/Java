@@ -1,4 +1,4 @@
-package Java.oopps;
+package Java.os;
 import java.util.*;
 
 
@@ -13,6 +13,7 @@ class Student {
         this.name = name;
         this.marks = marks;
       }
+
 
     public void print(){
         System.out.println("name is : " + name);

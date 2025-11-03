@@ -1,4 +1,4 @@
-package Java.oopps.INHERITANCE;
+package Java.os.INHERITANCE;
 
 class Shape{
     String name = "Kkkkkk" ;

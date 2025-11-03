@@ -1,4 +1,4 @@
-package Java.oopps.Polymorphism;
+package Java.os.Polymorphism;
 
 class Student{ 
     String name ;

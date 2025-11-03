@@ -1,4 +1,4 @@
-package Java.oopps;
+package Java.os;
 import java.util.*;
 
 class Java {
