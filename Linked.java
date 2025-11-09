@@ -4,7 +4,7 @@ class Node {
     int data ;
     Node next ;
 
-    Node(int data1 , Node Next){
+    Node(int data1 , Node Next){ 
         data = data1;
         next = Next;
     }
