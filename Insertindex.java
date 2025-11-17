@@ -77,6 +77,24 @@ public class Insertindex {
         }
     }
 
+    public static Node insertSorted(int val , Node Head){
+         Node temp = Head;
+         Node newnode = new Node(val);
+         if(Head==null || val<Head.data){
+            newnode.next = Head;
+            return newnode;
+         }
+         while(temp!=null && temp.next.data<val){
+            temp = temp.next;
+         }
+
+         newnode.next = temp.next;
+         temp.next = newnode ;
+
+         return Head;
+
+    }
+
     public static void main(String[] args){
          int[] arr = {10 , 20 , 30 , 40 , 50 , 70};
          Node head = Convert(arr);
